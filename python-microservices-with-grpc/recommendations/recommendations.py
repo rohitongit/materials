@@ -25,7 +25,7 @@ books_by_category = {
     ],
     BookCategory.SELF_HELP: [
         BookRecommendation(
-            id=7, title="The 7 Habits of Highly Effective People"
+            id=7, title="The 7 Habits of Highly Effective Managers"
         ),
         BookRecommendation(
             id=8, title="How to Win Friends and Influence People"
